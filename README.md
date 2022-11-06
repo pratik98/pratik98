@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=pratik98&color=green)
 
 <!--
 **pratik98/pratik98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
